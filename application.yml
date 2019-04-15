@@ -6,9 +6,9 @@
 spring:
   profiles: dev
   application: 
-    name: sunnly-microservicecloud-config-dev
+    name: sunnly-microservicecloud-config-sunnly-dev
 ---
 spring:
   profiles: test
   application: 
-    name: sunnly-microservicecloud-config-test
+    name: sunnly-microservicecloud-config-sunnly-test
