@@ -1,4 +1,4 @@
-spring:
+﻿spring:
   profiles:
     active:
     - dev
@@ -12,7 +12,3 @@ spring:
   profiles: test
   application: 
     name: sunnly-microservicecloud-config-test
-#  请保存为UTF-8格式
- 
- 
-
